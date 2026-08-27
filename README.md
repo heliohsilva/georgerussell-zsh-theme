@@ -1,12 +1,12 @@
 # georgerussell Oh-my-Zsh theme
 
-An Oh My Zsh theme based on the robbyrussell theme.
+An Oh My Zsh theme based on the `robbyrussell` theme.
 
 ## Wtf is it
 
-I love the robbyrussell theme, but I wanted to see the full path to the current directory instead of just the last directory name.
+I love the `robbyrussell` theme, but I wanted to see the full path to the current directory instead of just the last directory name.
 
-So I created georgerussell: essentially robbyrussell, but with the full directory path.
+So I created `georgerussell`: essentially `robbyrussell`, but with the full directory path.
 
 ## Why?
 
