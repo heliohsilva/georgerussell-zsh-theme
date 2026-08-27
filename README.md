@@ -1,4 +1,4 @@
-# George Russell Oh-my-Zsh theme
+# georgerussell Oh-my-Zsh theme
 
 An Oh My Zsh theme based on the robbyrussell theme.
 
