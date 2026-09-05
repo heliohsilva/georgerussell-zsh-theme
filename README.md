@@ -26,7 +26,7 @@ Clone the repository into your Oh My Zsh custom themes directory:
 
 ```bash
 git clone https://github.com/heliohsilva/georgerussell-zsh-theme.git /tmp/grussell-zsh-theme;
-cp /tmp/grussell-zsh-theme/georgerussell.zsh-theme $ZSH_CUSTOM/custom/themes/georgerussell.zsh-theme
+mv /tmp/grussell-zsh-theme/georgerussell.zsh-theme $ZSH_CUSTOM/themes/georgerussell.zsh-theme
 ```
 
 Then, edit your `~/.zshrc`:
